@@ -1,7 +1,7 @@
-package com.wally.ps.controller;
+package com.wally.ps.api.controller;
 
-import com.wally.ps.entity.Payment;
-import com.wally.ps.service.PaymentService;
+import com.wally.ps.api.entity.Payment;
+import com.wally.ps.api.service.PaymentService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

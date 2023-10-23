@@ -1,7 +1,7 @@
-package com.wally.ps.service;
+package com.wally.ps.api.service;
 
-import com.wally.ps.entity.Payment;
-import com.wally.ps.repository.PaymentRepository;
+import com.wally.ps.api.entity.Payment;
+import com.wally.ps.api.repository.PaymentRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.wally.ps.entity;
+package com.wally.ps.api.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
